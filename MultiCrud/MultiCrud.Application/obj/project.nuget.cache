@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "agoz9U7DYb2L+/ITauh6cpcJzHfld79AWkESxDsZvbhr2xnjYeu7SubtUObX+fUNqe9H6v34xE0FSV0M/E3uUA==",
+  "success": true,
+  "projectFilePath": "D:\\fontes\\multi-crud\\MultiCrud\\MultiCrud.Application\\MultiCrud.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccruz\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\ccruz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ccruz\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

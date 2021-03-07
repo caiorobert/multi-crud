@@ -1,0 +1,4 @@
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infraestructure.Repository\bin\Debug\netcoreapp3.1\MultiCrud.Domain.dll
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infraestructure.Repository\obj\Debug\netcoreapp3.1\MultiCrud.Infraestructure.Repository.csprojAssemblyReference.cache
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infraestructure.Repository\obj\Debug\netcoreapp3.1\MultiCrud.Infraestructure.Repository.AssemblyInfoInputs.cache
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infraestructure.Repository\obj\Debug\netcoreapp3.1\MultiCrud.Infraestructure.Repository.AssemblyInfo.cs

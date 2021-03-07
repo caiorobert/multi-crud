@@ -1,0 +1,12 @@
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infrastructure.Repository\bin\Debug\netcoreapp3.1\MultiCrud.Infrastructure.Repository.deps.json
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infrastructure.Repository\bin\Debug\netcoreapp3.1\MultiCrud.Infrastructure.Repository.dll
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infrastructure.Repository\bin\Debug\netcoreapp3.1\MultiCrud.Infrastructure.Repository.pdb
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infrastructure.Repository\bin\Debug\netcoreapp3.1\MultiCrud.Domain.dll
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infrastructure.Repository\bin\Debug\netcoreapp3.1\MultiCrud.Domain.pdb
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infrastructure.Repository\obj\Debug\netcoreapp3.1\MultiCrud.Infrastructure.Repository.csprojAssemblyReference.cache
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infrastructure.Repository\obj\Debug\netcoreapp3.1\MultiCrud.Infrastructure.Repository.AssemblyInfoInputs.cache
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infrastructure.Repository\obj\Debug\netcoreapp3.1\MultiCrud.Infrastructure.Repository.AssemblyInfo.cs
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infrastructure.Repository\obj\Debug\netcoreapp3.1\MultiCrud.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infrastructure.Repository\obj\Debug\netcoreapp3.1\MultiCrud.Infrastructure.Repository.csproj.CopyComplete
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infrastructure.Repository\obj\Debug\netcoreapp3.1\MultiCrud.Infrastructure.Repository.dll
+D:\fontes\multi-crud\MultiCrud\MultiCrud.Infrastructure.Repository\obj\Debug\netcoreapp3.1\MultiCrud.Infrastructure.Repository.pdb
